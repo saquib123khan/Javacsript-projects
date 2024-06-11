@@ -1,1 +1,0 @@
-# this is movie search app project
